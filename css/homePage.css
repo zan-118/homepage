@@ -161,9 +161,9 @@ html {
       color-stop(70%, transparent),
       to(black)
     ),
-    url("./image/hero-bg.jpg");
+    url("../image/hero-bg.jpg");
   background: linear-gradient(to bottom, transparent 70%, black 100%),
-    url("./image/hero-bg.jpg");
+    url("../image/hero-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
